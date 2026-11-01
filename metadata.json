@@ -1,0 +1,6 @@
+{
+  "name": "History - Smart Activity Tracker",
+  "description": "Android-style smart history manager that automatically logs viewed content, features real-time search, multi-item deletion, and automated 15/30-day retention policies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
